@@ -127,14 +127,15 @@ Want to improve the app? Feel free to fork, contribute and submit PRs!
 
 ## 👨‍💻 Author
 
-Developed by **[Pranav Gajanan Dighade]**
-              Email- dighadepranav@gmil.com
-             **[Ajay Bhanwarlal Chaudhary]**
-              Email- choudharyajay6969@gmail.com
-             **[Shivam Gajanan Burkul]**
-             Email- shivamburkul1179@gmail.com
-             **[Faiz Ishaque Chauhan]**
-             Email- faizchauhan18@gmail.com
+Developed by
+> [Pranav Gajanan Dighade]
+  Email- dighadepranav@gmil.com
+> [Ajay Bhanwarlal Chaudhary]
+  Email - choudharyajay6969@gmail.come 
+>[Shivam Gajanan Burkul] 
+  Email- shivamburkul1179@gmail.com 
+>[Faiz Ishaque Chauhan] 
+  Email- faizchauhan18@gmail.com
 
 
 
